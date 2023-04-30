@@ -7,6 +7,7 @@
 "Prototype driven development, data oriented design"
 "If you don't understand the data you don't understand the problem"
 "Comments are code - treat them as such"
+"We don't make things easy TO DO, we make things easy TO UNDERSTAND"
 
 ## Repo Structure (No more than 5 layers)
 
